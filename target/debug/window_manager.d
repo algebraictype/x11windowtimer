@@ -1,0 +1,1 @@
+/home/lol/programming/rust/window_manager/target/debug/window_manager: /home/lol/programming/rust/window_manager/src/arg_parser.rs /home/lol/programming/rust/window_manager/src/main.rs /home/lol/programming/rust/window_manager/src/window_fetch.rs
